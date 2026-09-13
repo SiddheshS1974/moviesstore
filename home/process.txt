@@ -73,4 +73,6 @@ Video 15:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/
 Video 16:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQCEv1vDL7h_QqVzO6TMYaV6AVDyYHYHc39StcoJ9b4u_pg
 - Changed back to SQLite databse
 - In the process of deploying webapp on pythonanywhere
-Video 17:
+Video 17:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQC3MXoobYRhQod_2nm48FeNAVlmk1Q4wyVvu-VFevn1dr8
+- Successfully deployed webapp to pythonanywhere
+- Configured static files
