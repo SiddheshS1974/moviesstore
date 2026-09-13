@@ -70,6 +70,7 @@ Video 14:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/
 - Implemented page to see the orders
 Video 15:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQDF55wFr0PgS5IiG0q9OJgKARrR4jH7_zDh2jt-Yiu-NRI
 - Implemented way for users to report inappropriate movie reviews and remove it from the page
-Video 16:
+Video 16:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQCEv1vDL7h_QqVzO6TMYaV6AVDyYHYHc39StcoJ9b4u_pg
 - Changed back to SQLite databse
--
+- In the process of deploying webapp on pythonanywhere
+Video 17:
