@@ -1,4 +1,4 @@
-Video 1: https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQAphFhj8kGNTqFrWJDVx3tAAepEZpMZJVojRNZy9Xwnf4E
+Video 1: https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQAphFhj8kGNTqFrWJDVx3tAAepEZpMZJVojRNZy9Xwnf4E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=k6zhfm
 - Downloaded python and set up django
 - Created the moviestores folder
 - Looked at overview of project and its elements
@@ -6,11 +6,11 @@ Video 1: https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/
 - Created new home app and added it to setting.py so that Django recognizes it
 - created path for the home page
 - added code to views.py to render home page content
-Video 2: https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQBT4R9G-rnZR4qNNXP7CiInAfKnWfHxl21SGUvDI2FTc-4
+Video 2: https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQBT4R9G-rnZR4qNNXP7CiInAfKnWfHxl21SGUvDI2FTc-4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Fjgl5i
 - I created a new templates folder for the home page to structure content, in which I add an index.html file with basic code for structure.
 - Connected project level url.py with app level (home) url.py
 - ran into error regarding my template folder
-Video 3: https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQDaObjCplnBSYxG6M7lwiSaAV9JVD0v_VNl8hmVtlJJ_24
+Video 3: https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQDaObjCplnBSYxG6M7lwiSaAV9JVD0v_VNl8hmVtlJJ_24?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iiUkMg
 - Fixed home page template error
 - repeated same steps to create an about page
 - Learned and built base template
@@ -18,61 +18,61 @@ Video 3: https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/
 - Created a custom CSS file
 - Displayed an image as background for the home page
 - Home page image and css not displaying properly
-Video 4:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQBl5XzUGO75S5D8cf1ex04xATiwiAfy6Td6Ktuky3_7E9E
+Video 4: https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQBl5XzUGO75S5D8cf1ex04xATiwiAfy6Td6Ktuky3_7E9E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GOOWd1
 - Fixed display issue
 - Changed tab name to Movies Store
 - Added image to the About page
 - Added a styled navbar as well as a styled footer
-Video 5:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQAw1M1XzMejTarg425EvyS6AXXLMLRAUNB-RK0KuyGVQ1I
+Video 5: https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQAw1M1XzMejTarg425EvyS6AXXLMLRAUNB-RK0KuyGVQ1I?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Pzu3oX
 - Created new app movies 
 - Created a list of movies using dummy data
 - Created a page for each individual move with its descriptions, but ran into a displaying issue
-Video 6:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQB1Z_Oal2yGT7veFmTcVIlEAf9hXmIXto9XH9ggAP9PI1k
+Video 6:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQB1Z_Oal2yGT7veFmTcVIlEAf9hXmIXto9XH9ggAP9PI1k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9Lg1UZ
 - Fixed error(It happened because of indenting issues)
 - Added movies tab onto navbar
 - Created and ran Movie model(first model)
 - Created super user
 - registered movie model in admin page
 - Created way to add movie info to our database on the admin page
-Video 7:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQDq3mXSR2oTQbhcLblBjvbbAauUWBg5EBLAAm9Q7lLDwKc
+Video 7:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQDq3mXSR2oTQbhcLblBjvbbAauUWBg5EBLAAm9Q7lLDwKc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RHScXH
 - Added all movies to database in admin panel along with the images
 - Ran into error where movie images aren't being displayed
-Video 8:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQCeeX0_Mh9aSLrKdcq-lAt3AeSpDg4BlEOXffGUhN9skUs
+Video 8:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQCeeX0_Mh9aSLrKdcq-lAt3AeSpDg4BlEOXffGUhN9skUs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Vxzfbj
 - Individual pages for movies now show description and price pulled from the database
 - Movie images still not rendering for some reason
 - Search bar not working as well
 - Created functional search bar to search for movies
-Video 9:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQDteI0jBKL_Rptdy_Eva0KRAdCS7MxAnBaZ67v2x84ZDUk
+Video 9:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQDteI0jBKL_Rptdy_Eva0KRAdCS7MxAnBaZ67v2x84ZDUk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=13EaTv
 - Fixed image rendering error (Updated wrong urls.py file)
 - Fixed search bar error (Forgot to add a line of code in the views.py file)
 - Created MySQL database to replace my old database with it
 - Ran into databse connection error
-Video 10:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQAfDryl7OjcT72ovDiDmoJDAQOwg3N-baMeCcUvggkwOuo
+Video 10:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQAfDryl7OjcT72ovDiDmoJDAQOwg3N-baMeCcUvggkwOuo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uXfFCU
 - Fixed database connection error by inputting database password and right port number in settings.py
 - Created accounts app
 - Created user sign up page that can sign up users with error handling
 - Styled sign up page
 - Created login redirection
-Video 11:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQA_XRODsGg8TYhOnG1jCgXmAUy_t5YtIFV3dr12O7bR4F0
+Video 11:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQA_XRODsGg8TYhOnG1jCgXmAUy_t5YtIFV3dr12O7bR4F0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8VYXU5
 - Created Review model
 - Partially created way to allow users to CRUD reviews, but ran into error
-Video 12:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQDjyDPIJKDgSok8539lA3NlAYku3ArV4kv7DI169Qxm4yw
+Video 12:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQDjyDPIJKDgSok8539lA3NlAYku3ArV4kv7DI169Qxm4yw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rWeiVE
 - Fixed error (Due to formatting issue on show.html)
 - Created way to read and list reviews
 - Created way to edit and delete reviews
-Video 13:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQCmvEqZtsyUS7toEhJve5a3AdC7R9kunFWGkA9_XnWo2RA
+Video 13:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQCmvEqZtsyUS7toEhJve5a3AdC7R9kunFWGkA9_XnWo2RA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dGvg93
 - Created cart app
 - Created a way to add movies to cart
 - Created functions for user to edit and clear cart
-Video 14:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQC_IO7EOPh1QLfSgpgBmPCfAfJm3nehKgiPAgwWHptUT9Q
+Video 14:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQC_IO7EOPh1QLfSgpgBmPCfAfJm3nehKgiPAgwWHptUT9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XyHane
 - Created an order and item model
 - Implemented purchase and order 
 - Implemented page to see the orders
-Video 15:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQDF55wFr0PgS5IiG0q9OJgKARrR4jH7_zDh2jt-Yiu-NRI
+Video 15:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQDF55wFr0PgS5IiG0q9OJgKARrR4jH7_zDh2jt-Yiu-NRI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DP2a1n
 - Implemented way for users to report inappropriate movie reviews and remove it from the page
-Video 16:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQCEv1vDL7h_QqVzO6TMYaV6AVDyYHYHc39StcoJ9b4u_pg
+Video 16:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQCEv1vDL7h_QqVzO6TMYaV6AVDyYHYHc39StcoJ9b4u_pg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Drbpbo
 - Changed back to SQLite databse
 - In the process of deploying webapp on pythonanywhere
-Video 17:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQC3MXoobYRhQod_2nm48FeNAVlmk1Q4wyVvu-VFevn1dr8
+Video 17:https://gtvault-my.sharepoint.com/:v:/g/personal/ssenthil73_gatech_edu/IQC3MXoobYRhQod_2nm48FeNAVlmk1Q4wyVvu-VFevn1dr8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rI1u0b
 - Successfully deployed webapp to pythonanywhere
 - Configured static files
